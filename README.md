@@ -4,9 +4,9 @@
 
 ## Linear Statistics
 ### [run in R; found in the folder '1_RLinearStatistics']
-*** Lutek_etal_2022_WaterDepth.R runs linear statistics for both kinematic and EMG variables.
-*** CleanDataset_EMG.csv contains ELECTROMYOGRAPHY data averaged by trial.
-*** CleanDataset_KINE.csv contains KINEMATIC data averaged by trial.
+"Lutek_etal_2022_WaterDepth.R" runs linear statistics for both kinematic and EMG variables.
+CleanDataset_EMG.csv contains ELECTROMYOGRAPHY data averaged by trial.
+CleanDataset_KINE.csv contains KINEMATIC data averaged by trial.
 
 
 ----- Polar Statistics -----
