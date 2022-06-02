@@ -1,12 +1,12 @@
-"# 2022WaterDepthAnalysisFinal" 
+# 2022WaterDepthAnalysisFinal 
 
-The code found in this repository was used to run the statistics in Lutek et al. 2022.
+- The code found in this repository was used to run the statistics in Lutek et al. 2022.
 
------ Linear Statistics -----
-[run in R; found in the folder '1_RLinearStatistics']
-Lutek_etal_2022_WaterDepth.R runs linear statistics for both kinematic and EMG variables.
-CleanDataset_EMG.csv contains ELECTROMYOGRAPHY data averaged by trial.
-CleanDataset_KINE.csv contains KINEMATIC data averaged by trial.
+## Linear Statistics
+### [run in R; found in the folder '1_RLinearStatistics']
+*** Lutek_etal_2022_WaterDepth.R runs linear statistics for both kinematic and EMG variables.
+*** CleanDataset_EMG.csv contains ELECTROMYOGRAPHY data averaged by trial.
+*** CleanDataset_KINE.csv contains KINEMATIC data averaged by trial.
 
 
 ----- Polar Statistics -----
