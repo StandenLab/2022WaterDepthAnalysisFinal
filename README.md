@@ -12,7 +12,7 @@ CleanDataset_KINE.csv contains KINEMATIC data averaged by trial.
 ## Polar Statistics
 ### [run in Matlab; found in folder '2_MatlabPolarStatistics']
 This code requires functions from the 'Circular Statistics Toolbox (Directional Statistics)' (Berens et al., 2009). It can be downloaded from the Matlab File Exchange here:
-https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics
+https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics <br/><br/>
 All other functions are custom code written by K.L. and E.M.S.
 Polar statistics for KINEMATIC variables can be run using the script "KINEVars.m". 
 Polar statistics for ELECTROMYOGRAPHY variables can be run using the script "EMGVars.m".
